@@ -6,7 +6,7 @@ In summary, this project provides three different encoding and decoding methods:
 - the Polybius Square codes characters into numbers that represent a position in a two dimensional array called a polybius square.
 - the substitution cipher uses a new set of the alphabet and exchanges the message according to the new alphabet set.
 
-[Live Link](https://decoder-ring-tau.vercel.app/index.html)
+[Live Link](https://decoder-ring-omega.vercel.app/)
 
 # Technology & Tools
 Built with:
