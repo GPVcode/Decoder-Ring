@@ -1,5 +1,5 @@
 # Decoder Ring Project
-Decoder Ring is a project I worked on thorugh the Thinkful, Software Engineering Bootcamp. This project gave me the opportunity to write complex algorithms and using unit tests with Mocha and Chai.
+Decoder Ring is a project I worked on through the Thinkful Software Engineering Bootcamp. This project gave me the opportunity to write complex algorithms and use unit tests with Mocha and Chai.
 
 In summary, this project provides three different encoding and decoding methods: Caesar Shift, Polybius Square, and Substitution Cipher. 
 - the Caesar Shift shifts all characters by the users given number. A positive number shifts letters to the right and negative numbers shift the letter to the left.
